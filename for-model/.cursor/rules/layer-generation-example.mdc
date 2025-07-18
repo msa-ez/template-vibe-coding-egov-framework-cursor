@@ -1,7 +1,6 @@
 ---
-description: 
-globs: 
-alwaysApply: true
+description: Provides examples and guidelines on how to write files when creating service structure files in e-Government framework style.
+alwaysApply: false
 ---
 Service Layer (Business Layer)
 

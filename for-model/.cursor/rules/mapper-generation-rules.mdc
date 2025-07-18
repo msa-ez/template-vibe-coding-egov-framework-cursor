@@ -1,7 +1,6 @@
 ---
-description: 
-globs: 
-alwaysApply: true
+description: Provides guidelines on how to structure XML when defining Mybatis mappers.
+alwaysApply: false
 ---
 Mapper Interface
 

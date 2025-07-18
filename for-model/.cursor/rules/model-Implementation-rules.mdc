@@ -1,7 +1,6 @@
 ---
-description: 
-globs: 
-alwaysApply: true
+description: Provides guidelines including metadata for each sticker type and examples of generated files when creating Spring Boot-based files from DDD-based Event Storming stickers.
+alwaysApply: false
 ---
 1. Aggregate
 Each aggregate is organized as a separate package

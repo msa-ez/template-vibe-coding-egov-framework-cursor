@@ -1,7 +1,6 @@
 ---
-description: 
-globs: 
-alwaysApply: true
+description: When proceeding with code generation according to each BoundedContext's PRD, this file must be read first to understand the code generation sequence and mandatory rules that must be followed.
+alwaysApply: false
 ---
 Please strictly follow the requirements below to generate the egov framework based on Spring Boot using event storming metadata:
 
